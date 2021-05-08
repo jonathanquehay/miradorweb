@@ -1,4 +1,8 @@
 /* fallback */
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
